@@ -127,5 +127,8 @@
       }
     }
   },
-  "defaultProject": "smart-solution-front"
+  "defaultProject": "smart-solution-front",
+  "cli": {
+    "analytics": "1336634a-3e01-4ddd-814f-b9cb613e2ed8"
+  }
 }
